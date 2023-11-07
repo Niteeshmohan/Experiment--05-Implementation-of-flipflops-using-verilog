@@ -220,7 +220,7 @@ endmodule
 
 
 ## T FLIPFLOP:
-9
+
 ![image](out6.png)
 
 
